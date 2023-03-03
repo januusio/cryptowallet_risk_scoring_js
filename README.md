@@ -51,7 +51,7 @@ module: {
 Here's an example of using the library with Node.js:
 
 ```javascript
-const RiskScoringApi = require('risk_scoring_api');
+const RiskScoringApi = require('cryptowallet_risk_scoring_js');
 
 const api = new RiskScoringApi.DefaultApi();
 const address = "0xbb0ea877a85df253ccc312b80c644da31443abfd";
