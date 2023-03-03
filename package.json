@@ -1,7 +1,7 @@
 {
   "name": "cryptowallet_risk_scoring_js",
   "version": "1.0.0",
-  "description": "This_is_an_API_that_provides_whitebox_risk_scoring",
+  "description": "A free cryptowallet risk scoring tool with fully explainable scoring.",
   "license": "Unlicense",
   "main": "lib/index.js",
   "scripts": {
@@ -36,5 +36,6 @@
     "expect.js": "^0.3.1",
     "mocha": "^10.2.0",
     "sinon": "^7.2.0"
-  }
+  },
+  "author": "januus.io"
 }
