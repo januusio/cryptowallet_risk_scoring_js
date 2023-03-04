@@ -75,6 +75,7 @@ Class | Method | HTTP request | Description
 ------------ | ------------- | ------------- | -------------
 *RiskScoringApi.DefaultApi* | [**scoreBtcAddressGet**](docs/DefaultApi.md#scoreBtcAddressGet) | **GET** /score/btc/{address} | 
 *RiskScoringApi.DefaultApi* | [**scoreEthAddressGet**](docs/DefaultApi.md#scoreEthAddressGet) | **GET** /score/eth/{address} | 
+*RiskScoringApi.DefaultApi* | [**scoreOtherAddressGet**](docs/DefaultApi.md#scoreOtherAddressGet) | **GET** /score/other/{address} | 
 
 ## Documentation for Models
 
